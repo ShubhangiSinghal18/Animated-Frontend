@@ -1,10 +1,12 @@
 import React from 'react'
-
+import Hero from './components/Hero'
+import '../src/index.css'
 const App = () => {
   return (
-    <div>
-      <h1 className='text-5xl text-blue-50 font-bold'>Hello World!</h1>
-    </div>
+    <main className='relative min-h-screen w-screen overflow-x-hidden'>
+    <Hero />
+    <section className='z-0 min-h-screen bg-violet-300'/>
+    </main>
   )
 }
 
