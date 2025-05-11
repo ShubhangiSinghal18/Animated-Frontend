@@ -3,4 +3,6 @@
 - Modulo Operator
 - onloadeddata property
 
--gsap for animation
+- gsap for animation
+
+- react-use library for navbar
