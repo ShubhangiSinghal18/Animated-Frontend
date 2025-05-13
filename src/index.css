@@ -204,6 +204,18 @@ b{
 @utility floating-nav {
   @apply bg-black rounded-lg border;
 }
+@utility border-hsla {
+  @apply border border-white/20;
+}
+@utility bento-title {
+  @apply uppercase md:text-6xl text-4xl font-black font-zentry;
+}
+@utility bento-tilt_1 {
+  @apply relative  overflow-hidden  transition-transform duration-300 ease-out;
+}
+@utility bento-tilt_2 {
+  @apply relative col-span-1 row-span-1 overflow-hidden rounded-md transition-transform duration-300 ease-out;
+}
 
 @layer components{
     .mask-clip-path {
