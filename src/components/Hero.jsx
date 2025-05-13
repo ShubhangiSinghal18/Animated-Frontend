@@ -82,7 +82,7 @@ const Hero = () => {
     });
   });
   return (
-    <div className="relative h-dvh w-screen overflow-x-hidden">
+    <div className="relative h-dvh w-screen overflow-x-hidden" id="home">
       {isLoading && (
         <div className="flex-center absolute z-[100] h-dvh w-screen overflow-hidden bg-violet-50">
           <div className="three-body">
@@ -126,7 +126,7 @@ const Hero = () => {
             src={getVideoSrc(
               CurrentIndex === totalVideos - 1 ? 1 : CurrentIndex
             )}
-            //autoPlay
+            autoPlay
             loop
             muted
             className="absolute left-0 top-0 size-full object-cover object-center"

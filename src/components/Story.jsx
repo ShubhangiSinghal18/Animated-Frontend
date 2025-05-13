@@ -38,7 +38,7 @@ const Story = () => {
 
   };
   return (
-    <section id="story" className="min-h-dvh w-screen bg-black text-blue-50 overflow-hidden">
+    <section id="prologue" className="min-h-dvh w-screen bg-black text-blue-50 overflow-hidden" >
       <div className="flex flex-col size-full items-center py-10 pb-24">
         <p className="font-general text-sm uppercase md:text-[10px]">
           The Multiversal IP World
@@ -46,7 +46,7 @@ const Story = () => {
         <div className="relative size-full">
           <AnimatedTitle
             title="The st<b>o</b>ry of <br/> a hidden real<b>m</b>"
-            sectionID="#story"
+            sectionID="#prologue"
             containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10"
           />
 

@@ -4,7 +4,7 @@ import { TiLocationArrow } from "react-icons/ti";
 import "../index.css";
 import {useWindowScroll} from 'react-use'
 import gsap from 'gsap';
-const navItems = ["Nexus", "Vault", "Prologue", "About", "Contact"];
+const navItems = ["Home", "About", "Vault", "Prologue", "Contact"];
 
 const Navbar = () => {
   const navContainerRef = useRef(null);
@@ -75,6 +75,7 @@ gsap.to(navContainerRef.current , {
 
           <div className="flex h-full items-center ">
             <div className="hidden md:block ">
+            
               {navItems.map((item, index) => (
                 <a
                   key={index}
