@@ -1,7 +1,8 @@
 # 🎮 Animated Gaming Website
 
 An immersive and design-forward website that blends motion, geometry, and storytelling into a seamless browsing experience.  
-Featuring scroll-based animations, dynamic visual transitions, interactive 3D effects, and embedded video — all crafted for a completely responsive and modern user interface.
+Featuring scroll-based animations, dynamic visual transitions, interactive 3D effects, and embedded video — all crafted for a completely responsive and modern user interface that performs smoothly across iOS, Android, Windows, and macOS devices.
+
 
 [**Check it out here**](https://animated-frontend-eta.vercel.app/)  
 
