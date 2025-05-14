@@ -8,6 +8,7 @@ const BentoCard = ({ src, title, description }) => {
         loop
         muted
         autoPlay
+        playsInline
         // className="absolute left-0 top-0 size-full object-cover object-center inset-0"
           className="absolute inset-0 w-full h-full object-cover object-center"
       />
