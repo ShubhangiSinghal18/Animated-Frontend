@@ -3,11 +3,10 @@
 An immersive and design-forward website that blends motion, geometry, and storytelling into a seamless browsing experience.  
 Featuring scroll-based animations, dynamic visual transitions, interactive 3D effects, and embedded video — all crafted for a completely responsive and modern user interface.
 
+[**Check it out here**](https://animated-frontend-p4y56p4sn-shubhangis-projects-987033cd.vercel.app/)  
+
+
 ---
-
-## 🌐 Visit
-https://animated-frontend-p4y56p4sn-shubhangis-projects-987033cd.vercel.app/
-
 
 ## 🔧 Tech Stack
 
