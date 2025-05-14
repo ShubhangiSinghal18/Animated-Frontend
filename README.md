@@ -32,7 +32,7 @@ Featuring scroll-based animations, dynamic visual transitions, interactive 3D ef
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/animated-gaming-site.git
+git clone https://github.com/ShubhangiSinghal18/Animated-Frontend.git
 cd animated-gaming-site
 npm install
 npm run dev
