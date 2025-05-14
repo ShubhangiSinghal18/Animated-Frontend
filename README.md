@@ -37,6 +37,7 @@ cd Animated-Frontend
 npm install
 npm run dev
 ```
+---
 
 ## 📝 Credits
 
