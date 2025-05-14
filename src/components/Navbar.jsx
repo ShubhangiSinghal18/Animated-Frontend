@@ -108,7 +108,7 @@ const Navbar = () => {
                     }`}
                     style={{ animationDelay: `${bar * 0.1}s` }}
                   />
-                )): <TbMusicPause color="white" size={20} className="cursor-pointer"/>
+                )): <TbMusicPause color="white" size={18} className="cursor-pointer"/>
               }
             </button>
           </div>

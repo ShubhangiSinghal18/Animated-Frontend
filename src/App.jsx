@@ -9,13 +9,16 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 const App = () => {
+  const ismdScreen = window.innerWidth >= 768;
   return (
     <main className='relative min-h-screen w-screen overflow-x-hidden'>
    <Navbar />
     <Hero />
     <About />
     <Features />
-    <Story />
+    {
+     ismdScreen && <Story />
+    }
    <Contact />
    <Footer />
     </main>

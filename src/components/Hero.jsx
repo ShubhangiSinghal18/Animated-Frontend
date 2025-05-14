@@ -133,7 +133,7 @@ const Hero = () => {
             onLoadedData={handleVideoLoad}
           />
         </div>
-        <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75">
+        <h1 className="special-font hero-heading absolute bottom-20 md:bottom-5 right-5 z-40 text-blue-75">
           G<b>a</b>ming
         </h1>
         <div className="absolute left-0 top-0 z-40 size-full">
@@ -154,7 +154,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <h1 className="special-font hero-heading absolute bottom-5 right-5  text-black">
+      <h1 className="special-font hero-heading absolute bottom-20 md:bottom-5 right-5  text-black">
           G<b>a</b>ming
         </h1>
 
