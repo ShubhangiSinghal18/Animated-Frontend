@@ -111,6 +111,7 @@ const Hero = () => {
                 className="size-64 origin-center scale-150 object-cover object-center"
                 onLoadedData={handleVideoLoad}
                 playsInline
+                autoPlay
               />
             </div>
           </div>
@@ -123,6 +124,7 @@ const Hero = () => {
             className="absolute-center invisible absolute z-20 size-64 object-cover object-center"
             onLoadedData={handleVideoLoad}
             playsInline
+            autoPlay
           />
           <video
             src={getVideoSrc(
