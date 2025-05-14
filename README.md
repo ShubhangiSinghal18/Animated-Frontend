@@ -5,7 +5,8 @@ Featuring scroll-based animations, dynamic visual transitions, interactive 3D ef
 
 ---
 
-## 🌐 Visit: https://animated-frontend-p4y56p4sn-shubhangis-projects-987033cd.vercel.app/
+## 🌐 Visit
+https://animated-frontend-p4y56p4sn-shubhangis-projects-987033cd.vercel.app/
 
 
 ## 🔧 Tech Stack
