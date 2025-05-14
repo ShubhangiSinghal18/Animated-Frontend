@@ -4,7 +4,6 @@ An immersive and design-forward website that blends motion, geometry, and storyt
 Featuring scroll-based animations, dynamic visual transitions, interactive 3D effects, and embedded video — all crafted for a completely responsive and modern user interface.
 
 [**Check it out here**](https://animated-frontend-eta.vercel.app/)  
-> _Note: This project is deployed on Vercel and may require you to log in with a Vercel account to access the site. Apologies for the inconvenience._
 
 ---
 
